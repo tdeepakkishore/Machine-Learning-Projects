@@ -5,4 +5,5 @@ Cannot Upload pickle files required for API creation due to large capacity. Belo
 link - https://drive.google.com/drive/folders/1h54MAFoCH7PGPEhCTV-DKt7ZUHsB3qI6?usp=sharing
 
 ### Application Preview
-![image](https://github.com/tdeepakkishore/Machine-Learning-Projects/assets/115205089/39e2163e-8296-4b1f-b113-c3a71b81eb54)
+![Screenshot 2023-08-05 145450](https://github.com/tdeepakkishore/Machine-Learning-Projects/assets/115205089/69442a96-f461-4dd1-bb40-350504bba3ab)
+
