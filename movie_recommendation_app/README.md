@@ -3,3 +3,6 @@ Content based movie recommendation application which recommends movies based on 
 
 Cannot Upload pickle files required for API creation due to large capacity. Below I'm providing link for pickle files - 
 link - https://drive.google.com/drive/folders/1h54MAFoCH7PGPEhCTV-DKt7ZUHsB3qI6?usp=sharing
+
+### Application Preview
+![image](https://github.com/tdeepakkishore/Machine-Learning-Projects/assets/115205089/39e2163e-8296-4b1f-b113-c3a71b81eb54)
